@@ -2,7 +2,6 @@
 ## Summary
 Used to reveal a map of the hub site relationships in a tenancy.
  	 
-##DESCRIPTION
 This code iterates each site in the stated tenancy and produces an xml file that can imported into Draw.IO to show a diagram of the hub site relationships.
  	 	      
 ## Disclaimer
