@@ -1,4 +1,4 @@
-<#
+
  	.SYNOPSIS
  	Used to reveal a map of the hub site relationships in a tenancy.
  	 
@@ -27,6 +27,6 @@
 
  	.EXAMPLE
  	None
-#>
+
  
  
