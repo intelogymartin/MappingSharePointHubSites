@@ -1,5 +1,5 @@
 
- 	.SYNOPSIS
+## Summary
  	Used to reveal a map of the hub site relationships in a tenancy.
  	 
  	.DESCRIPTION
@@ -12,6 +12,8 @@
  	NewDrawIO.xml file stored in the current location>
  	 
  	.NOTES
+    
+    ## Disclaimer
  	Version: 1.0
  	Author: Martin White
  	Creation Date: 06/04/2018
